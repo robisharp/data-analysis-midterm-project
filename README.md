@@ -157,7 +157,7 @@ Data Type Distribution:
 
 --Demonstrated real-world data handling practices commonly used in analytics projects
 
-price_distribution.png
+![Price Distribution](price_distribution.png)
 
 
 🚀 How to Run the Project
