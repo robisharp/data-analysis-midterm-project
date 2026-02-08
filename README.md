@@ -157,8 +157,12 @@ Data Type Distribution:
 
 --Demonstrated real-world data handling practices commonly used in analytics projects
 
-![Price Distribution](price_distribution.png)
 
+## Visualization Note
+
+**Interactive visualizations are generated using Lets-Plot and may not render directly on GitHub. 
+Please run the notebook locally or in Google Colab to view all charts.
+**
 
 🚀 How to Run the Project
 
